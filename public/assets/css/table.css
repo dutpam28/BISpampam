@@ -1,0 +1,25 @@
+table{width:100%; border-collapse:collapse; table-layout:auto; vertical-align:top; margin-bottom:15px; color:#999999;}
+table thead th{color:#FFFFFF; background-color:#666666; border-collapse:collapse; text-align:center; table-layout:auto; vertical-align:middle;}
+table tbody td{vertical-align:top; border-collapse:collapse; max-width: 184px;}
+table tbody td{max-width: 184px;}
+table thead th, table tbody td{padding:5px; border-collapse:collapse;}
+table tbody tr.light{color:#666666; background-color:#F7F7F7;}
+table tbody tr.dark{color:#666666; background-color:#E8E8E8;}
+select{max-width: 173px;}
+
+table #regitrasi, table #regitrasi tbody td, table #regitrasi tbody tr{
+  border: 0px solid black;
+}
+
+form{margin: 10px}
+
+#contents{display:block; position:relative; width:960px; margin:0 auto;}
+
+#foods{padding: 100px;}
+
+.koljml{max-width: 50px;}
+
+div.pemesanan{max-width: 760px}
+
+.judulpesan {background-color: #E3F1F9; color:#3A6C86;}
+.judulpesan h1{padding: 0; margin: 0;}

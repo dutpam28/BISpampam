@@ -1,3 +1,14 @@
+Jadi Rencananya Web ini tuh web yang dibuat untuk simpanan di koperasi.
+
+User dari aplikasi ini nantinya ada 2 yaitu anggota koperasi dan pihak koperasi.
+
+Nanti user melakukan simpanan koperasi. Ada 3 jenis simpanan. Simpanan pokok adalah simpanan yang dibayarkan ketika anggota pertama masuk menjadi anggota koperasi sebesar 212.000 dan simpanan ini hanya bisa diambil ketika anggota keluar dari keanggotaan koperasi. Simpanan wajib adalah simpanan yang dibayarkan setiap bulannya sebesar 30.000 dan simpanan ini hanya bisa diambil ketika anggota keluar dari keanggotaan koperasi. Simpanan sukarela adalah simpanan dengan nominal yang bebas diubah kapan saja oleh anggota. Simpanan ini sifatnya memotong gaji karyawan. Jadi ada batas untuk pengajuan nilai simpanan sukarela.
+
+Anggota bisa register, login, lihat saldo simpanannya, mengajukan pengambilan simpanan sukarela, dan logout. Koperasi bisa melakukan login, melihat informasi semua anggota, mengubah status anggota (ketika regis status anggota di set menjadi 0 yang nanti tidak akan bisa login), mencetak dokumen pemotongan(isinya adalah data nama dan jumlah uang yang harus dipotong dari gaji anggota), mengubah status pengajuan simpanan sukarela(nantinya akan mencetak dokumen yang berisi jumlah uang yang diajukan dan no rekening yang nantinya harus di input oleh anggota), melihat laporan keuangan, mencetak laporan keuangan, logout.
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
